@@ -1,0 +1,21 @@
+{
+	"name": "datafactory1056",
+	"properties": {
+		"globalParameters": {
+			"email_address": {
+				"type": "string",
+				"value": "lenadeeshm0@gmail.com; lenadeesh105@gmail.com"
+			}
+		},
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddb094ad-8f25-4279-b867-2cd8ea0fd328",
+		"tenantId": "cc4f65f7-173e-4fcb-ac8a-58555513695c"
+	}
+}
